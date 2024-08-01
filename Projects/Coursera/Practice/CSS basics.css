@@ -1,6 +1,12 @@
-h1 {
+#Falafel {
     color: blue;
     background-color: grey;
+    font-size: 32px;
+}
+h2 {
+    color: green;
+    background-color: grey;
+    font-size: 32px;
 }
 
 #header1 {
@@ -10,5 +16,13 @@ h1 {
 p {
     font-family: "Courier New", monospace;
     font-size: 12px;
-    text-decoration: underline;
+    text-decoration: none;
+}
+
+#ingredients_falafel {
+    color: blue;
+}
+
+#ingredients_pasta {
+    color: green;
 }
