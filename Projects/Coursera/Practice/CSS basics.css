@@ -6,3 +6,9 @@ h1 {
 #header1 {
     color: green;
 }
+
+p {
+    font-family: "Courier New", monospace;
+    font-size: 12px;
+    text-decoration: underline;
+}
